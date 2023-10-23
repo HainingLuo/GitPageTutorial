@@ -10,7 +10,9 @@ Check London weather at [BBC London Weather](https://www.bbc.co.uk/weather/26437
 
 1. London can be beautiful
 
-    ![Sunny London image](images/sunny.jpg)
+    <!-- ![Sunny London image](images/sunny.jpg) -->
+    
+    <img src="images/dawn.jpg" alt="This is suppose to be an image" width="640"/>
 
 2. It also rains a lot
 
@@ -21,11 +23,11 @@ Check London weather at [BBC London Weather](https://www.bbc.co.uk/weather/26437
     </video>
 3. I love London
 
+Related: Recent storm in the UK 
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <!-- <div class="youtube-video">
     <iframe width="640" height="360" src="https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div> -->
-
-Related: Recent storm in the UK 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- <video src='https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p'></video> -->
