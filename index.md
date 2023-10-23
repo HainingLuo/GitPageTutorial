@@ -14,17 +14,18 @@ Check London weather at [BBC London Weather](https://www.bbc.co.uk/weather/26437
 
 2. It also rains a lot
 
-    ![Rainy London video](videos/raining.mp4)
+    <!-- ![Rainy London video](videos/raining.mp4) -->
 
     <video poster="images/sunny.jpg" autoplay controls muted loop width="640">
     <source src="videos/raining.mp4" type="video/mp4">
     </video>
 3. I love London
 
-<div class="youtube-video">
+<!-- <div class="youtube-video">
     <iframe width="640" height="360" src="https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+</div> -->
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Related: Recent storm in the UK 
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<video src='https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p'></video>
+<!-- <video src='https://www.youtube.com/embed/V2U99cLbSqc?si=0MJNA5CyYZ1vUE2p'></video> -->
