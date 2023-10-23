@@ -14,6 +14,26 @@
     background-color: #f5f5f5; 
   }
 
+.text {
+  font-family: 'Noto Sans', sans-serif;
+  text-align: center;
+  font-size: 20px;
+  margin: 25px;
+}
+
+.centered-list {
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin: 25px;
+    /* background-color: #f5f5f5;  */
+}
+
+.unordered-list {
+  display: inline-block;
+  text-align: left;
+}
+
 .link {
     font-family: 'Noto Sans', sans-serif;
     text-align: center;
